@@ -1,4 +1,4 @@
-# the wild oasis
+# the wild oasis 🌲
 
 Welcome to the-wild-oasis! This is a big project for showing react skill and power, like :
 Redux, styled component for styleing, react icon/chart/toast for a beetr Experience. We're so glad you're here! 😍
